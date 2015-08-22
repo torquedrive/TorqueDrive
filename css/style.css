@@ -1,7 +1,7 @@
 /* Stylesheet */
 
 body {
-    background: #ffffff;
+    background: #000;
 }
 
 .topnav {
@@ -11,34 +11,43 @@ body {
 }
 
 .taft {
-    /*background: #999;*/
-    padding: 40px 0 40px 0;
+    background: #000;
+    /*padding: 40px 0 40px 0;*/
     /*border: 1px solid #ff0000;*/
     min-height: 100px;
 }
 
 .logo {
-    color: #5e1212;
-    text-shadow: 2px 2px 2px #999;
-    padding: 0 0 0 20px;
+    color: #a92800;
+    text-shadow: 1px 1px 1px #999;
+    padding: 15px 0 0 20px;
     font-size: 42px;
     font-family: "Racing Sans One" cursive;
 }
 
 .phone {
-    color: #5e1212;
-    font-size: 18px;
+    padding: 18px 0 0 0;
+    color: #a92800;
+    font-size: 20px;
     font-family: "Racing Sans One" cursive;
 }
 
 .chat {
-    color: #5e1212;
-    font-size: 18px;
+    padding: 18px 0 0 0;
+    color: #a92800;
+    font-size: 20px;
     font-family: "Racing Sans One" cursive;
 }
 
 .market {
     
+}
+
+.navbar {
+    max-width: 75%;
+    position: relative;
+    top: -25px;
+    left: 150px;
 }
 
 .pricing {
