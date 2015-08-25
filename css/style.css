@@ -1,6 +1,10 @@
 /* Stylesheet */
 
 body {
+    background: #555555;
+}
+
+.whole {
     background: #000;
 }
 
@@ -51,8 +55,19 @@ body {
 }
 
 .pricing {
+    margin: 0 0 20px 0;
     background: #333;
     color: #ff0000;
     padding: 20px 20px 20px 20px;
     border-radius: 4px;
 }
+
+hr {
+    border-top: 1px solid #777777;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
