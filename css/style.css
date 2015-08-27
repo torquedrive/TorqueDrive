@@ -62,6 +62,7 @@ body {
     border-radius: 4px;
 }
 
+/***** TODO - Needs panels inside .info-box styled *****/
 .info-box {
     margin-bottom: 20px;
     color: aliceblue;
